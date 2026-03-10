@@ -6,8 +6,11 @@ This study presents a systems-level in-silico analysis of breast cancer transcri
 
 ## 🔬 Publication Details
 **Status:** Published  
+
 **Journal:** American Journal of Clinical Pathology Research 
+
 **DOI:** https://mkscienceset.com/articles_file/907-_article1764911687.pdf 
+
 **Citation:**  Olusanya, M. D., Ojo, I. D., & Oyelere, T. E. (2025). Integrative Transcriptomic Profiling Reveals Histone Variant–Driven Immune 
 Escape in Breast Cancer. Ame Jo Clin Path Res, 2(4),  01-08
 
